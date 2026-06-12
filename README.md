@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Ayushman-coder1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Ayushman Maurya
 
-<!---
-Ayushman-coder1/Ayushman-coder1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 AIML Engineering Student | Backend Developer | AI & Automation Enthusiast
+
+I'm a 4th-year B.Tech Computer Science student specializing in Artificial Intelligence & Machine Learning. I enjoy building scalable backend systems, AI-powered applications, and automation workflows.
+
+## 🔥 About Me
+
+* 🎓 B.Tech CSE (AIML) Student
+* 📍 Based in Kanpur, India
+* 💻 Interested in Backend Development, AI, Automation & Data Analysis
+* 🤖 Built an AI Voice Assistant using Python
+* 🌐 Developed an E-Commerce Bookstore Website
+* 📚 Currently learning DSA, Backend Development, and Automation Tools like n8n
+* 🎯 Goal: Build impactful products and achieve financial freedom through technology
+
